@@ -1,7 +1,7 @@
 # CICLOS-DE-MERCADO
 
 ## Que es?
-1. [General Info](#general-info)
+1. [como analisarlos?](#Como analisarlos)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
